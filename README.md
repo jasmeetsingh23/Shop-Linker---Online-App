@@ -20,23 +20,29 @@ A Shop Linker eCommerce app leverages MongoDB for data storage, Express.js for s
 
 # Features
 
-### Authenticaton
-![](https://github.com/jasmeetsingh23/MERN-CHAT-APP/blob/main/screenshots/login.PNG)
-![](https://github.com/jasmeetsingh23/MERN-CHAT-APP/blob/main/screenshots/signup.PNG)
-### Real Time Chatting with Typing indicators
-![](https://github.com/jasmeetsingh23/MERN-CHAT-APP/blob/main/screenshots/real-time.PNG)
-### One to One chat
-![](https://github.com/jasmeetsingh23/MERN-CHAT-APP/blob/main/screenshots/mainscreen.PNG)
-### Search Users
-![](https://github.com/jasmeetsingh23/MERN-CHAT-APP/blob/main/screenshots/search.PNG)
-### Create Group Chats
-![](https://github.com/jasmeetsingh23/MERN-CHAT-APP/blob/main/screenshots/new%20grp.PNG)
-### Notifications 
-![](https://github.com/jasmeetsingh23/MERN-CHAT-APP/blob/main/screenshots/group%20%2B%20notif.PNG)
-### Add or Remove users from group
-![](https://github.com/jasmeetsingh23/MERN-CHAT-APP/blob/main/screenshots/add%20rem.PNG)
-### View Other user Profile
-![](https://github.com/jasmeetsingh23/MERN-CHAT-APP/blob/main/screenshots/profile.PNG)
+### search
+![](https://github.com/jasmeetsingh23/Shop-Linker---Online-App/blob/main/screeshorts/Screenshot%20(56).png)
+
+### All Categories
+![](https://github.com/jasmeetsingh23/Shop-Linker---Online-App/blob/main/screeshorts/Screenshot%20(57).png)
+### Single categories
+![](https://github.com/jasmeetsingh23/Shop-Linker---Online-App/blob/main/screeshorts/Screenshot%20(58).png)
+### Filter Category And Filter By price
+![](https://github.com/jasmeetsingh23/Shop-Linker---Online-App/blob/main/screeshorts/Screenshot%20(60).png)
+### User Dashboard
+![](https://github.com/jasmeetsingh23/Shop-Linker---Online-App/blob/main/screeshorts/Screenshot%20(61).png)
+### Update User Profile 
+![](https://github.com/jasmeetsingh23/Shop-Linker---Online-App/blob/main/screeshorts/Screenshot%20(62).png)
+### User Order Status
+![](https://github.com/jasmeetsingh23/Shop-Linker---Online-App/blob/main/screeshorts/Screenshot%20(63).png)
+### Online Payment Option
+![](https://github.com/jasmeetsingh23/Shop-Linker---Online-App/blob/main/screeshorts/Screenshot%20(64).png)
+### Login Page
+![](https://github.com/jasmeetsingh23/Shop-Linker---Online-App/blob/main/screeshorts/Screenshot%20(65).png)
+### Register Page
+![](https://github.com/jasmeetsingh23/Shop-Linker---Online-App/blob/main/screeshorts/Screenshot%20(66).png)
+### Forget Password
+![](https://github.com/jasmeetsingh23/Shop-Linker---Online-App/blob/main/screeshorts/Screenshot%20(65).png)
 ## Made By
 
 - [@Jasmeet](https://github.com/jasmeetsingh23)
