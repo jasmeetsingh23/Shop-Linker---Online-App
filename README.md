@@ -16,7 +16,7 @@ A Shop Linker eCommerce app leverages MongoDB for data storage, Express.js for s
 
 [https://Shop-Linker.herokuapp.com/]( https://shop-linker-online-app.onrender.com)
 
-![](https://github.com/jasmeetsingh23/MERN-CHAT-APP/blob/main/screenshots/group%20%2B%20notif.PNG)
+![](https://github.com/jasmeetsingh23/Shop-Linker---Online-App/blob/main/screeshorts/Screenshot%20(55).png)
 
 # Features
 
