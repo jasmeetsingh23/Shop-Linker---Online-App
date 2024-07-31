@@ -42,7 +42,15 @@ A Shop Linker eCommerce app leverages MongoDB for data storage, Express.js for s
 ### Register Page
 ![](https://github.com/jasmeetsingh23/Shop-Linker---Online-App/blob/main/screeshorts/Screenshot%20(66).png)
 ### Forget Password
-![](https://github.com/jasmeetsingh23/Shop-Linker---Online-App/blob/main/screeshorts/Screenshot%20(65).png)
+![](https://github.com/jasmeetsingh23/Shop-Linker---Online-App/blob/main/screeshorts/Screenshot%20(73).png)
+### Admin Dashboard
+![](https://github.com/jasmeetsingh23/Shop-Linker---Online-App/blob/main/screeshorts/Screenshot%20(67).png)
+### Create Category
+![](https://github.com/jasmeetsingh23/Shop-Linker---Online-App/blob/main/screeshorts/Screenshot%20(68).png)
+### Create Product
+![](https://github.com/jasmeetsingh23/Shop-Linker---Online-App/blob/main/screeshorts/Screenshot%20(69).png)
+### Admin Update Delivery Status
+![](https://github.com/jasmeetsingh23/Shop-Linker---Online-App/blob/main/screeshorts/Screenshot%20(72).png)
 ## Made By
 
 - [@Jasmeet](https://github.com/jasmeetsingh23)
