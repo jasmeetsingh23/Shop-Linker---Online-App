@@ -14,7 +14,7 @@ A Shop Linker eCommerce app leverages MongoDB for data storage, Express.js for s
   
 ## Demo
 
-[https://Shop-Linker.herokuapp.com/](https://jasmeetsingh-shoplinker.onrender.com/)
+[https://jasmeetsingh-shoplinker.onrender.com//](https://jasmeetsingh-shoplinker.onrender.com/)
 
 ![](https://github.com/jasmeetsingh23/Shop-Linker---Online-App/blob/main/screeshorts/Screenshot%20(55).png)
 
